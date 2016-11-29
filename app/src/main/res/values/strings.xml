@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">VendExpress</string>
+    <string name="title_activity_home">Home</string>
+    <string name="action_account">Mi cuenta</string>
+    <string name="action_logout">Cerrar sesión</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="login_email">Correo electrónico</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_email_hint">ejemplo@dominio.com</string>
+    <string name="login_password_hint">contraseña</string>
+    <string name="login_singup">¿No tienes cuenta? Regístrate aquí</string>
+    <string name="login_login">Iniciar sesión</string>
+
+    <string name="sign_email">Correo electrónico</string>
+    <string name="sign_password">Contraseña</string>
+    <string name="sign_firstname">Nombre(s)</string>
+    <string name="sign_lastname">Apellido(s)</string>
+    <string name="sign_phone">Número telefónico</string>
+    <string name="sign_email_hint">ejemplo@dominio.com</string>
+    <string name="sign_password_hint">contraseña</string>
+    <string name="sign_firstname_hint">Dámaso</string>
+    <string name="sign_lastname_hint">Pérez Prado</string>
+    <string name="sign_phone_hint">312 123 4444</string>
+    <string name="sign_sign">Registrarme</string>
+
+    <string name="templatecliente_name">Nombre</string>
+    <string name="templatecliente_email">Correo electrónico</string>
+    <string name="templatecliente_phone">Número telefónico</string>
+    <string name="templatecliente_address">Domicilio</string>
+
+    <string name="clienteadd_name">Nombre completo</string>
+    <string name="clienteadd_email">Correo electrónico</string>
+    <string name="clienteadd_phone">Número telefónico</string>
+    <string name="clienteadd_address">Domicilio</string>
+    <string name="clienteadd_name_hint">Dámaso Pérez Prado</string>
+    <string name="clienteadd_email_hint">ejemplo@dominio.com</string>
+    <string name="clienteadd_phone_hint">312 123 4444</string>
+    <string name="clienteadd_address_hint">Calle Principal, 10. Colonia Principal</string>
+    <string name="clienteadd_add">Añadir</string>
+
+    <string name="producto_show_name">Producto</string>
+    <string name="producto_show_description">Descripción</string>
+    <string name="producto_show_price">299.00</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="formas_pago">
+        <item>Contado</item>
+        <item>Semanal</item>
+        <item>Quincenal</item>
+        <item>Mensual</item>
+    </string-array>
+</resources>
