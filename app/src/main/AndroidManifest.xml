@@ -19,7 +19,7 @@
         </activity>
         <activity
             android:name=".Home"
-            android:label="@string/title_activity_home"
+            android:label="Inicio"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden" />
         <activity
@@ -31,7 +31,6 @@
             android:windowSoftInputMode="stateHidden" />
         <activity
             android:name=".ClienteAdd"
-            android:label="Volver a mis clientes"
             android:parentActivityName=".Home"
             android:windowSoftInputMode="stateHidden" />
         <activity
@@ -43,9 +42,12 @@
             android:windowSoftInputMode="stateHidden" />
         <activity
             android:name=".ComprarProductos"
-            android:label="Volver al carrito"
             android:parentActivityName=".Home"
             android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:parentActivityName=".Home"
+            android:windowSoftInputMode="stateHidden"
+            android:name=".PagarAbono" />
     </application>
 
 </manifest>
